@@ -1,0 +1,37 @@
+{
+  "slug": "asr-catering-service-perinthalmanna",
+  "name": "ASR Catering Service",
+  "shortName": "ASR",
+  "descriptor": "Catering Services",
+  "address": "Eranthode, Angadipuram, Keralam 679325",
+  "area": "Angadipuram",
+  "city": "Perinthalmanna",
+  "district": "Malappuram",
+  "region": "Kerala",
+  "postalCode": "679325",
+  "geo": {
+    "lat": 10.992185,
+    "lng": 76.2072999
+  },
+  "mapsLink": "https://maps.google.com/?cid=17544163191609400171",
+  "phone": "+91 99471 00137",
+  "whatsapp": "919947100137",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 1,
+  "reviews": [
+    {
+      "name": "shadhinshadhin",
+      "rating": 5,
+      "quote": "Good food and worthy experience 😋"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://asr-catering-service-perinthalmanna.vercel.app"
+}
